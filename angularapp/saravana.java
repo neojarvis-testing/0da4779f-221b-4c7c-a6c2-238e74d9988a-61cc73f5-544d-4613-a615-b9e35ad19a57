@@ -1,1 +1,1 @@
-console.java("saravana");
+console.log("saravana");
